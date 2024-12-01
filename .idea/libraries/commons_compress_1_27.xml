@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="commons-compress-1.27">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/commons-compress-1.27.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/commons-compress-1.27.1" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/commons-compress-1.27.1" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/commons-compress-1.27.1" recursive="false" type="SOURCES" />
+  </library>
+</component>
